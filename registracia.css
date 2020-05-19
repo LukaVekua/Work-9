@@ -1,0 +1,263 @@
+.background{
+    background : linear-gradient(to right, #33ccff 45%,#0000ff 55%)
+}
+
+.surati1{
+    position:relative;
+    bottom:7px;
+    border:1px solid black;
+}
+
+.mtavari{
+    color:none;
+    width:100px;
+    height:40px;
+    border:1px solid black;
+    position:relative;
+    right:341px;
+    bottom:11px;
+}
+
+.txt1{
+    position:relative;
+    top:7px;
+}
+
+.registracia{
+    color:none;
+    width:150px;
+    height:40px;
+    border:1px solid black;
+    position:relative;
+    bottom:53px;
+    right:214px;
+}
+
+.avtorizacia{
+    color:none;
+    width:150px;
+    height:40px;
+    border:1px solid black;
+    position:relative;
+    right:62px;
+    bottom:95px;
+}
+
+.kontaqti{
+    color:none;
+    width:150px;
+    height:40px;
+    border:1px solid black;
+    position:relative;
+    bottom:137px;
+    left:90px;
+}
+
+.carieli-ujra{
+    color:none;
+    width:225px;
+    height:40px;
+    border:1px solid black;
+    position:relative;
+    bottom:179px;
+    left:279px;
+}
+
+
+.txt2{
+    text-decoration:underline;
+    position:relative;
+    top:7px;
+    right:65px;
+}
+
+
+
+.left-box-places{
+    width:220px;
+    height:40px;
+    border:1px solid black;
+    background-color:grey;
+    position:relative;
+    bottom:179px;
+    right:281px;
+}
+
+.surati-2-box{
+    width:220px;
+    height:320px;
+    border:1px solid black;
+    background-color:grey;
+    position:relative;
+    bottom:179px;
+    right:281px;
+}
+
+.last-cell{
+    width:781px;
+    height:30px;
+    border:1px solid black;
+    background-color:none;
+    position:relative;
+    bottom:179px; 
+}
+
+.tetri-ujra{
+    width:559px;
+    height:614px;
+    background-color:white;
+    border:1px solid black;
+    position:relative;
+    bottom:827px;
+    left:111px;
+}
+
+.txt3{
+    color:blue;
+    position:relative;
+    right:80px;
+    font-weight:bold;
+    top:10px;
+}
+
+.inputis-gaweva{
+    position:relative;
+    right:10px;
+}
+
+.xazi1{
+    position:relative;
+    top:20px;
+}
+
+.inputis-gaweva2{
+    position:relative;
+
+    right:10px;
+}
+
+.txt4{
+    position:relative;
+    right:20px;
+    top:20px;
+    color:blue;
+    font-weight:bold;
+}
+
+.xazi2{
+    position:relative;
+    top:30px;
+}
+
+.txt5{
+    color:blue;
+    font-weight:bold;
+    position:relative;
+    top:30px;
+    right:120px;
+}
+
+.inputis-gaweva3{
+   position:relative;
+   right:23px;
+}
+
+.xazi3{
+    position:relative;
+    top:40px;
+}
+
+.txt6{
+    color:blue;
+    font-weight:bold;
+    position:relative;
+    top:40px;
+    right:80px;
+}
+
+.inputis-gaweva4{
+    position:relative;
+    right:20px;
+}
+
+.xazi4{
+    position:relative;
+    top:160px;
+}
+   
+.sqesi{
+    position:relative;
+    bottom:1230px;
+    right:30px;
+    font-weight:bold;
+    color:blue;
+}
+
+.xazi5{
+    position:relative;
+    top:90px;
+}
+
+.txt7{
+    color:blue;
+    font-weight:bold;
+    position:relative;
+    top:100px;
+    right:180px;
+}
+
+.gaweva{
+    position:relative;
+    top:100px;
+    right:180px;
+}
+
+.xazi{
+    position:relative;
+    top:280px;
+}
+
+.txt8{
+    color:blue;
+    font-weight:bold;
+    position:relative;
+    top:120px;
+    right:200px;
+}
+
+.txt9{
+    position:relative;
+    right:35px;
+}
+
+.txt10{
+    position:relative;
+    right:45px;
+}
+
+.txt11{
+    position:relative;
+    right:23px;
+}
+
+.txt12{
+    position:relative;
+    right:10px;
+}
+
+.txt13{
+    position:relative;
+    right:38px;
+}
+
+.xazi7{
+    position:relative;
+    top:150px;
+}
+
+.gilaki{
+    position:relative;
+    top:150px;
+    right:200px;
+    cursor:pointer;
+}

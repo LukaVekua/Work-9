@@ -1,0 +1,119 @@
+.background{
+    background : linear-gradient(to right, #33ccff 45%,#0000ff 55%)
+}
+
+.surati1{
+    position:relative;
+    bottom:7px;
+    border:1px solid black;
+}
+
+.mtavari{
+    color:none;
+    width:100px;
+    height:40px;
+    border:1px solid black;
+    position:relative;
+    right:341px;
+    bottom:11px;
+}
+
+.txt1{
+    position:relative;
+    top:7px;
+}
+
+.registracia{
+    color:none;
+    width:150px;
+    height:40px;
+    border:1px solid black;
+    position:relative;
+    bottom:53px;
+    right:214px;
+}
+
+.avtorizacia{
+    color:none;
+    width:150px;
+    height:40px;
+    border:1px solid black;
+    position:relative;
+    right:62px;
+    bottom:95px;
+}
+
+.kontaqti{
+    color:none;
+    width:150px;
+    height:40px;
+    border:1px solid black;
+    position:relative;
+    bottom:137px;
+    left:90px;
+}
+
+.carieli-ujra{
+    color:none;
+    width:225px;
+    height:40px;
+    border:1px solid black;
+    position:relative;
+    bottom:179px;
+    left:279px;
+}
+
+
+.txt2{
+    text-decoration:underline;
+    position:relative;
+    top:7px;
+    right:65px;
+}
+
+
+
+.left-box-places{
+    width:220px;
+    height:40px;
+    border:1px solid black;
+    background-color:grey;
+    position:relative;
+    bottom:179px;
+    right:281px;
+}
+
+.surati-2-box{
+    width:220px;
+    height:320px;
+    border:1px solid black;
+    background-color:grey;
+    position:relative;
+    bottom:179px;
+    right:281px;
+}
+
+.last-cell{
+    width:781px;
+    height:30px;
+    border:1px solid black;
+    background-color:none;
+    position:relative;
+    bottom:179px; 
+}
+
+.tetri-ujra{
+    width:559px;
+    height:614px;
+    background-color:white;
+    border:1px solid black;
+    position:relative;
+    bottom:827px;
+    left:112px;
+}
+
+.txt3{
+    position:relative;
+    right:80px;
+}
+

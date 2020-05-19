@@ -1,0 +1,90 @@
+.saiti{
+    background-color:rgb(232, 255, 232);
+    width: 1000px;
+    height: 800px;
+    margin: auto;
+    border: 1px solid black;
+}
+
+.Name{
+    font-size:25px;
+    width:500px;
+    position:relative;
+    top:50px;
+    left:55px;
+    border-radius:5px;
+    border:1px solid black;
+    padding-left:20px;
+    height:40px;
+}
+
+.Email{
+    font-size:25px;
+    width:500px;
+    border-radius:5px;
+    border:1px solid black;
+    padding-left:20px;
+    height:40px;
+    position:relative;
+    bottom:650px;
+    left:380px;
+}
+
+.Phone{
+    font-size:25px;
+    width:500px;
+    border-radius:5px;
+    border:1px solid black;
+    padding-left:20px;
+    height:40px;
+    position:relative;
+    bottom:590px;
+    left:380px;
+}
+
+.comment{
+    font-size:25px;
+    width:500px;
+    height:200px;
+    border-radius:5px;
+    border:1px solid black;
+    position:relative;
+    bottom:530px;
+    left:380px;
+    padding-left:20px;
+
+}
+
+.txt{
+    position:relative;
+    left:920px;
+    bottom:1030px;
+}
+
+.txt2{
+    color:green;
+    font-size:20px;
+}
+
+.line{
+    position:relative;
+    top:100px;
+    right:930px;
+    width:900px;
+}
+
+.button{
+    width:400px;
+    height:100px;
+    color:white;
+    background-color:green;
+    border-radius:10px;
+    border:1px solid black;
+    position:relative;
+    top:130px;
+    right:300px;
+    cursor:pointer;
+    font-size:25px;
+
+}
+

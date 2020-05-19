@@ -1,0 +1,92 @@
+.txt1 {
+    font-size: 35px;
+    position: relative;
+    left: 20px;
+}
+
+.saiti {
+    width: 1000px;
+    height: 800px;
+    margin: auto;
+    border: 1px solid black;
+}
+
+.txt2 {
+    position: relative;
+    top: 80px;
+    left: 80px;
+    font-size: 25px;
+}
+
+.Name {
+    border: none;
+    border-bottom: 1px solid black;
+    width: 780px;
+    font-size: 25px;
+    position: relative;
+    left: 50px;
+}
+
+.txt3 {
+    position: relative;
+    top: 150px;
+    left: 80px;
+    font-size: 25px;
+}
+
+.Email {
+    border: none;
+    border-bottom: 1px solid black;
+    width: 780px;
+    font-size: 25px;
+    position: relative;
+    left: 50px;
+}
+
+.txt4 {
+    position: relative;
+    top: 230px;
+    left: 50px;
+    font-size: 25px;
+}
+
+.Password {
+    position: relative;
+    left: 50px;
+    border: none;
+    width: 780px;
+    border-bottom: 1px solid black;
+    font-size: 25px;
+}
+
+.txt5 {
+    position: relative;
+    top: 300px;
+    font-size: 25px;
+    left: 70px;
+}
+
+.Disabled-Input {
+    position: relative;
+    left: 75px;
+    border: none;
+    border-bottom: 1px solid black;
+    width: 780px;
+    font-size: 25px;
+}
+
+.txt6 {
+    font-size: 25px;
+    position: relative;
+    left: 70px;
+    top: 400px;
+}
+
+.last {
+    border: none;
+    border-bottom: 1px solid black;
+    width: 780px;
+    position: relative;
+    top: 120px;
+    left: 40px;
+}

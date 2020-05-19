@@ -1,0 +1,70 @@
+.Login-window {
+    width: 600px;
+    height: 600px;
+    background-color: #cde8ef;
+    margin: auto;
+    text-align: center;
+    position: relative;
+    top: 100px;
+    border: 1px solid black;
+}
+
+.login-txt {
+    position: relative;
+    top: 30px;
+    font-size: 50px;
+}
+
+.Username {
+    width: 400px;
+    height: 70px;
+    font-size: 25px;
+    color: grey;
+    border: solid 1px black;
+    border-radius: 5px;
+    position: relative;
+    bottom: 350px;
+    left: 600px;
+    padding-left: 20px;
+}
+
+.Username-txt {
+    position: relative;
+    left: 10px;
+}
+
+.Password {
+    width: 400px;
+    height: 70px;
+    font-size: 25px;
+    color: grey;
+    border: solid 1px black;
+    border-radius: 5px;
+    position: relative;
+    bottom: 220px;
+    left: 175px;
+    padding-left: 20px;
+}
+
+.Sign-in {
+    width: 420px;
+    height: 70px;
+    font-size: 25px;
+    border: solid 1px black;
+    border-radius: 5px;
+    position: relative;
+    bottom: 150px;
+    left: 600px;
+    background-color: red;
+    text-align: center;
+    color: white;
+    cursor: pointer;
+}
+
+.txt {
+    color: rgb(4, 127, 168);
+    text-decoration: underline;
+    position: relative;
+    bottom: 50px;
+    left: 280px;
+}
